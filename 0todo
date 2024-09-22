@@ -1,0 +1,3 @@
+convert the recursive code to a stack to prevent stack overflow
+try memoizing in an limiteed cache 
+
